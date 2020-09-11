@@ -1,0 +1,13 @@
+C:\Users\Liora\source\repos\Labs\Labs\bin\Debug\netcoreapp3.1\Labs.exe
+C:\Users\Liora\source\repos\Labs\Labs\bin\Debug\netcoreapp3.1\Labs.deps.json
+C:\Users\Liora\source\repos\Labs\Labs\bin\Debug\netcoreapp3.1\Labs.runtimeconfig.json
+C:\Users\Liora\source\repos\Labs\Labs\bin\Debug\netcoreapp3.1\Labs.runtimeconfig.dev.json
+C:\Users\Liora\source\repos\Labs\Labs\bin\Debug\netcoreapp3.1\Labs.dll
+C:\Users\Liora\source\repos\Labs\Labs\bin\Debug\netcoreapp3.1\Labs.pdb
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.csprojAssemblyReference.cache
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfoInputs.cache
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.AssemblyInfo.cs
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.dll
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.pdb
+C:\Users\Liora\source\repos\Labs\Labs\obj\Debug\netcoreapp3.1\Labs.genruntimeconfig.cache
