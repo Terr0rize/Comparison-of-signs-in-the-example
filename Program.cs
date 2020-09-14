@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 namespace Labs
 {
@@ -25,45 +25,46 @@ namespace Labs
             {
                 foreach (var kk in x)
                 {
-                    summ2 += kk; sum++;
+                    summ2 += kk; sum++; 
                 }
                 _x = summ2 / N; del++;
 
                 summ1 += Math.Pow((item - _x), 2); 
                 min++; 
-                sum++; 
+                sum++;
                 umn++;
             }
             s1 = Math.Pow(summ1 / (N - 1), 2);
             min++;
             del++; 
             umn++;
-
+            umn--;
             Console.WriteLine("Пример s1: ");          
             Console.WriteLine("S= " + s1 + "\nОпераций сложений: " + sum + "\nОпераций умножения: " + umn + "\nОпераций деления: " + del + "\nОпераций вычитания: " + min);
             Console.WriteLine("_____________________");
+            /////////////////////////////////////////////////
             double summ3 = 0; double summ4 = 0;
-           
+
             foreach (var item in x)
             {
-                summ3 += Math.Pow(item, 2); 
-                sum1++; 
+                summ3 += Math.Pow(item, 2);
+                sum1++;
                 umn1++;
             }
 
             foreach (var item in x)
             {
-                summ4 += item; 
+                summ4 += item;
                 sum1++;
             }
-           
+
             s2 = (summ3 - Math.Pow(summ4, 2) / N) / (N - 1);
-            min1 += 2;
-            umn1++; 
-            del1 += 2;
+            min1++;
+
+            del1++;
             Console.WriteLine("Пример s2: ");
             Console.WriteLine("S= " + s2 + "\nОпераций сложения: " + sum1 + "\nОпераций умножения: " + umn1 + "\nОпераций деления: " + del1 + "\nОпераций вычитания: " + min1);
-            Console.ReadKey();           
+            Console.ReadKey();
         }
 
     }
